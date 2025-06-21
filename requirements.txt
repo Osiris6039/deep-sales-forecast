@@ -1,6 +1,0 @@
-
-streamlit
-pandas
-neuralprophet
-matplotlib
-openpyxl
